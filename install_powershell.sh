@@ -20,6 +20,3 @@ add-apt-repository universe
 
 # Install PowerShell
 apt-get install -y powershell
-
-# Start PowerShell
-pwsh
