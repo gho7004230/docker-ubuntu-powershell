@@ -1,4 +1,4 @@
 # docker-powershell
-Ubuntu Docker Image with MS PowerShell installed for containerization
+Ubuntu Docker 20.04 Image with Current MS PowerShell installed for containerization
 
 Useage: docker run -it --name ps powershell:ubuntu pwsh
