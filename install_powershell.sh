@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 # Update the list of packages
